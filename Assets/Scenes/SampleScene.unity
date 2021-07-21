@@ -150,8 +150,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 247073403}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.12, z: 0}
-  m_LocalScale: {x: 1.7249999, y: 2.33813, z: 1}
+  m_LocalPosition: {x: -0.018, y: 1.187, z: 0}
+  m_LocalScale: {x: 1.5646288, y: 2.2253535, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -377,7 +377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   GridTilePrefab: {fileID: 2786550741996578742, guid: 813920d54b7caab40968efecacf6118e, type: 3}
-  playArea: {fileID: 1353359546}
+  playArea: {fileID: 247073404}
   gridSize: 10
 --- !u!1 &1353359544
 GameObject:

@@ -14,5 +14,9 @@ public class Tile : MonoBehaviour
         }
     }
 
+    public void MoveToGrid(int x,int y)
+    {
+
+    }
 
 }
